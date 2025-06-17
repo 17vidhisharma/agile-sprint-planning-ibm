@@ -35,8 +35,8 @@ Build the backend product catalog feature for an e-commerce platform, including 
 
 ## Sprint Simulation
 
-User stories were planned and moved through these columns in GitHub Projects:
-**Sprint Backlog → In Progress → Review/QA → Done**
+User stories were moved step-by-step through the following workflow:  
+Sprint Backlog → In Progress → Review/QA → Done
 
 - Sprint Backlog: 4 Issues (executed)
 - Product Backlog: 5 Issues (ready)
@@ -46,11 +46,11 @@ User stories were planned and moved through these columns in GitHub Projects:
 
 ## Agile Practices Demonstrated
 
-- Kanban board setup and customization using GitHub Projects
-- Creation of 10 user stories using “As a… I need… so that…” format
-- Gherkin-style acceptance criteria (Given/When/Then)
-- Sprint prioritization and simulation
-- Manual task transitions and sprint visualization
+- GitHub Kanban board with custom columns
+- User story development using stakeholder requirements
+- Gherkin-style acceptance criteria (Given / When / Then)
+- Sprint prioritization and backlog refinement
+- Manual sprint execution flow with column transitions
 
 ---
 
@@ -65,6 +65,8 @@ User stories were planned and moved through these columns in GitHub Projects:
 ### Sprint Flow Sample
 ![Sprint Flow](./screenshots/flow_example.png)
 
+*(Make sure these image files are in the `/screenshots` folder of your repository.)*
+
 ---
 
 ## What I Learned
@@ -75,6 +77,5 @@ This hands-on sprint planning simulation helped solidify my understanding of Agi
 
 ## Reference Links
 
-- Course: [Introduction to Agile Development and Scrum – IBM on Coursera](https://www.coursera.org/learn/introduction-agile-development-scrum)
-- GitHub Repo: [https://github.com/17vidhisharma/agile-sprint-planning-ibm](https://github.com/17vidhisharma/agile-sprint-planning-ibm)
-
+- Coursera Course: [Introduction to Agile Development and Scrum](https://www.coursera.org/learn/introduction-agile-development-scrum)
+- GitHub Project Board: [View Agile Sprint Board](https://github.com/users/17vidhisharma/projects/1/views/1)
