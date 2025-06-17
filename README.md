@@ -1,81 +1,80 @@
-# Agile Sprint Planning — IBM DevOps Capstone
+# Agile Sprint Planning — Final Project
 
-IBM DevOps & Software Engineering Professional Certificate  
-Final Agile Planning Project | Simulated Sprint Workflow  
-Roles Played: Product Owner · Scrum Master · Developer
+**Course:** Introduction to Agile Development and Scrum  
+**Provider:** IBM (Coursera)  
+**Project Type:** Capstone Simulation  
+**Roles Simulated:** Product Owner · Scrum Master · Developer
 
 ---
 
 ## Project Overview
 
-This project demonstrates Agile planning and execution using GitHub Projects. Acting as a product owner and scrum master, I created a realistic backlog, prioritized features, managed a sprint cycle, and simulated task completion using Kanban-style workflow.
+This Agile planning project was completed as part of IBM’s *Introduction to Agile Development and Scrum* course on Coursera. The objective was to simulate a full product sprint using GitHub Projects by creating a structured backlog, prioritizing user stories, managing a sprint cycle, and moving issues through a Kanban board.
 
-Scenario: Building a backend product catalog for an e-commerce system  
-Tools: GitHub Projects, Agile Scrum, User Story Mapping, Sprint Simulation  
-Outcome: Fully simulated 2-week sprint from backlog to deployment-ready
+**Scenario:**  
+Build the backend product catalog feature for an e-commerce platform, including CRUD operations, like/dislike functionality, filtering, and cloud deployment.
 
 ---
 
 ## Stakeholder Requirements (User Stories)
 
-| Priority | Story |
-|----------|-------|
-| Sprint 1 | Add a product to the catalog |
-| Sprint 1 | Search/filter products |
-| Sprint 1 | Cloud hosting |
-| Sprint 1 | Auto-deploy changes |
-| Product Backlog | Update product details |
-| Product Backlog | Delete product |
-| Product Backlog | Like a product |
-| Product Backlog | Dislike a product |
-| Product Backlog | View all products |
-| Icebox | Retrieve product by ID |
+| Status           | User Story |
+|------------------|------------|
+| Sprint 1         | Add a product to the catalog |
+| Sprint 1         | Search/filter products |
+| Sprint 1         | Cloud hosting |
+| Sprint 1         | Auto-deploy changes |
+| Product Backlog  | Update product details |
+| Product Backlog  | Delete product |
+| Product Backlog  | Like a product |
+| Product Backlog  | Dislike a product |
+| Product Backlog  | View all products |
+| Icebox           | Retrieve product by ID |
 
 ---
 
 ## Sprint Simulation
 
-All sprint tasks moved from Sprint Backlog to In Progress, then to Review/QA, and finally to Done.
+User stories were planned and moved through these columns in GitHub Projects:
+**Sprint Backlog → In Progress → Review/QA → Done**
 
-- Sprint Backlog: 4 Issues
-- Product Backlog: 5 Issues
-- Icebox: 1 Issue
+- Sprint Backlog: 4 Issues (executed)
+- Product Backlog: 5 Issues (ready)
+- Icebox: 1 Issue (unscheduled)
 
 ---
 
-## Agile Tools Used
+## Agile Practices Demonstrated
 
-- GitHub Kanban Project
-- Gherkin-style acceptance criteria
-- Sprint milestones and story point logic
-- Backlog refinement and prioritization
-- Issue tagging and column simulation
-- Burndown simulation (visual only)
+- Kanban board setup and customization using GitHub Projects
+- Creation of 10 user stories using “As a… I need… so that…” format
+- Gherkin-style acceptance criteria (Given/When/Then)
+- Sprint prioritization and simulation
+- Manual task transitions and sprint visualization
 
 ---
 
 ## Screenshots
 
-### Final Board
-![Final Board View](./screenshots/final_board.png)
+### Final Board View
+![Final Board](./screenshots/final_board.png)
 
-### Issue Cards & Priorities
+### Issue Backlog
 ![Issue List](./screenshots/issue_cards.png)
 
-### Sprint Flow Example
-![Task Flow](./screenshots/flow_example.png)
-
-*(Replace the above image links with actual filenames in your repo)*
+### Sprint Flow Sample
+![Sprint Flow](./screenshots/flow_example.png)
 
 ---
 
 ## What I Learned
 
-This project gave me confidence in managing Agile planning cycles from scratch — transforming vague product ideas into structured user stories, prioritizing realistically, and simulating sprints in GitHub like a real DevOps team.
+This hands-on sprint planning simulation helped solidify my understanding of Agile workflows and Scrum roles. I learned how to structure user needs into actionable stories, simulate team collaboration, and visually manage work progress using GitHub’s native Agile tools.
 
 ---
 
-## Related Links
+## Reference Links
 
-- IBM DevOps Certificate: [Coursera](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-- GitHub Project Board: [Public Link](https://github.com/17vidhisharma/agile-sprint-planning-ibm/projects)
+- Course: [Introduction to Agile Development and Scrum – IBM on Coursera](https://www.coursera.org/learn/introduction-agile-development-scrum)
+- GitHub Repo: [https://github.com/17vidhisharma/agile-sprint-planning-ibm](https://github.com/17vidhisharma/agile-sprint-planning-ibm)
+
