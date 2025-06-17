@@ -54,28 +54,13 @@ Sprint Backlog → In Progress → Review/QA → Done
 
 ---
 
-## Screenshots
+## Screenshot
 
-### Final Board View
-![Final Board](./screenshots/final_board.png)
-
-### Issue Backlog
-![Issue List](./screenshots/issue_cards.png)
-
-### Sprint Flow Sample
-![Sprint Flow](./screenshots/flow_example.png)
-
-*(Make sure these image files are in the `/screenshots` folder of your repository.)*
+### Final Agile Sprint Board
+![Final Board](./dashboard.png)
 
 ---
 
 ## What I Learned
 
-This hands-on sprint planning simulation helped solidify my understanding of Agile workflows and Scrum roles. I learned how to structure user needs into actionable stories, simulate team collaboration, and visually manage work progress using GitHub’s native Agile tools.
-
----
-
-## Reference Links
-
-- Coursera Course: [Introduction to Agile Development and Scrum](https://www.coursera.org/learn/introduction-agile-development-scrum)
-- GitHub Project Board: [View Agile Sprint Board](https://github.com/users/17vidhisharma/projects/1/views/1)
+This hands-on sprint planning simulat
